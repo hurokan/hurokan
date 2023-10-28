@@ -18,18 +18,17 @@
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
-### Hi there, I'm Hasan Uddin Rokan! 👋
 
 I am a Full Stack Developer with a huge love for Laravel, React.js, Laravel, Everything API, RDBMS, ORACLE, SQL, AWS, Fintech, ERP and System Architecture. Currently, I'm open to work and employment opportunities.
 
 I love to read books.
-- :fireworks: 🌱 I’m currently learning many things, and I believe that every day is a learning opportunity.
+- :fireworks:  I’m currently learning many things, and I believe that every day is a learning opportunity.
 - 👯 I’m currently open for work and employment opportunities (remote and relocation)
 - 💬 Ask me about PHP, Laravel, ORACLE, SQL, AWS and API development.
 - 📫 I am just one mail away - [hurokan91@gmail.com]
 - 😄 Pronouns: He, Happy 😄
 - :partying_face: Fun fact: I love to cook, I love to read, I love to ride my cycle.
-- :wrench: 🔧 Tools - VSCode, PhpStorm, Docker.
+- :wrench: Tools - VSCode, PhpStorm, Docker.
 
 🌱 I'm constantly learning and improving my skills.
 
