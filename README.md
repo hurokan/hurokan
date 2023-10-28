@@ -28,7 +28,7 @@ I love to read books.
 - 💬 Ask me about PHP, Laravel, ORACLE, SQL, AWS and API development.
 - 📫 I am just one mail away - [hurokan91@gmail.com]
 - 😄 Pronouns: He, Happy 😄
-- :partying_face: 🥳 Fun fact: I love to cook, I love to read, I love to ride my cycle.
+- :partying_face: Fun fact: I love to cook, I love to read, I love to ride my cycle.
 - :wrench: 🔧 Tools - VSCode, PhpStorm, Docker.
 
 🌱 I'm constantly learning and improving my skills.
