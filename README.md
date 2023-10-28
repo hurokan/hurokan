@@ -16,7 +16,7 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 ![oracle](https://img.shields.io/badge/oracle-07405E?style=flat-square&logo=oracle&logoColor=61DAFB)
-![Aws](https://img.shields.io/badge/AWS-07405E?style=flat-square&logo=aws&logoColor=white)
+![Aws](https://img.shields.io/badge/Aws?style=flat-square&logo=aws&logoColor=black)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
