@@ -1,8 +1,17 @@
 ![Header](https://raw.githubusercontent.com/yourusername/yourusername/main/profile-header.png)
 
-### Hi there, I'm Your Name! 👋
+### Hi there, I'm Hasan Uddin Rokan! 👋
 
-I'm a passionate [Your Role] from [Your Location] with a love for [Your Interests/Hobbies]. I enjoy working with [Technologies or Tools You Like].
+I am a Full Stack Developer with a huge love for Laravel, React.js, Laravel, Everything API, RDBMS, ORACLE, SQL, AWS, Fintech, ERP and System Architecture. Currently, I'm open to work and employment opportunities.
+
+I love to read books.
+🌱 I’m currently learning many things, I believe that every day is a learning opportunity.
+👯 I’m currently open for work and employment opportunities (remote and relocation)
+💬 Ask me about PHP, Laravel, ORACLE, SQL, AWS and API development.
+📫 I am just one mail away - [hurokan91@gmail.com]
+😄 Pronouns: He, Happy 😄
+🥳 Fun fact: I love to cook, I love to read, I love to ride my cycle.
+🔧 Tools - VSCode, PhpStorm, Docker.
 
 🌱 I'm constantly learning and improving my skills.
 
