@@ -15,8 +15,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-![oracle](https://img.shields.io/badge/oracle-07405E?style=flat-square&logo=oracle&logoColor=61DAFB)
-![Aws](https://img.shields.io/badge/Aws-0CC1F3?style=flat-square&logo=aws&logoColor=black)
+[![Oracle](https://img.shields.io/badge/Oracle-DBA-FF0000?style=flat&logo=oracle&logoColor=white)](https://www.oracle.com/database/)
+[![AWS](https://img.shields.io/badge/AWS-Amazon_Web_Services-FF9900?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
